@@ -1,7 +1,4 @@
-//
-// Created by ke741tra on 17.03.23.
-//
-
+#define _POSIX_C_SOURCE 1
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
